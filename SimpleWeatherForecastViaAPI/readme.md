@@ -1,0 +1,2 @@
+# Simple weather forecast application that works using the Weather API (https://openweathermap.org/api)
+## All you need to do is enter the name of the city, supports different languages, but the answer will be given in russian, maybe later I will add opportunity to choose the languages for the answer
